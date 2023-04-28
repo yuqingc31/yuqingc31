@@ -10,7 +10,6 @@ I'm Yuqing, a master student at AOU.
 
 -   :hammer_and_pick: Java / C++ / HTML / CSS / SASS / JavaScript / React / Node.js
 
----
 
 #### :rocket: My Projects
 
