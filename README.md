@@ -1,3 +1,4 @@
+![Hello](docs/hello.svg)
 ### Hi there 👋
 * [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
 <!--
