@@ -3,7 +3,6 @@
 <!--
 **yuqingc31/yuqingc31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-* [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
 
 -->
 
@@ -18,3 +17,4 @@ I'm Yuqing, a master student at AOU.
 * [yuqingc31/Computer-Systems-UOA](https://github.com/yuqingc31/Computer-System.git) - Computer Systems assignments/quizzes/exams/notes - HDL, c++
 * [yuqingc31/JR](https://github.com/yuqingc31/JRbusinessProjects.git) - Projects from JR company - HTML, CSS, JavaScript, NodeJS
 * [yuqingc31/ADSA](https://github.com/yuqingc31/ADSA.git) - Algorithm and Data Structure Analysis assignments - c++
+* [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
