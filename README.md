@@ -8,7 +8,7 @@
 
 I'm Yuqing, a master student at AOU.
 
--   :hammer_and_pick: Java / C++ / HTML / CSS / SASS / JavaScript / React / Node.js
+-   :hammer_and_pick: Java / C++ / HTML / CSS / SASS / JavaScript / React / Node.js / jack / Assembly language
 
 
 ----
