@@ -14,7 +14,7 @@ I'm Yuqing, a master student at AOU.
 ----
 #### :rocket: My Projects
 
-* [yuqingc31/Computer-Systems-UOA - Computer Systems assignments/quizzes/exams/notes - HDL, c++
+* [yuqingc31/COMP SCI 2000 Computer-Systems-UOA - Computer Systems assignments/quizzes/exams/notes - HDL, c++
 * [yuqingc31/JR](https://github.com/yuqingc31/JRbusinessProjects.git) - Projects from JR company - HTML, CSS, JavaScript, NodeJS
 * [yuqingc31/ADSA-UOA] - Algorithm and Data Structure Analysis assignments - c++
 * [yuqingc31/Computer-Vision-UOA] - Computer Vision assignments - python
