@@ -20,4 +20,6 @@ I'm Yuqing, a master student at AOU.
 * [yuqingc31/Computer-Vision-UOA] - Computer Vision assignments - python
 * [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31)](https://github.com/anuraghazra/github-readme-stats)
+--- 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
