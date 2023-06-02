@@ -19,3 +19,5 @@ I'm Yuqing, a master student at AOU.
 * [yuqingc31/ADSA-UOA] - Algorithm and Data Structure Analysis assignments - c++
 * [yuqingc31/Computer-Vision-UOA] - Computer Vision assignments - python
 * [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
+
+[![yuqing's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuqingc31)](https://github.com/anuraghazra/github-readme-stats)
