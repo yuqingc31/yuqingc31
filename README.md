@@ -9,6 +9,7 @@
 I'm Yuqing, a master student at AOU.
 
 -   :hammer_and_pick: Java / C++ / C / python / HTML / CSS / SASS / JavaScript / TypeScript / React / Node.js / Assembly language
+-   :Agile tools: github / bitbucket / Jira
 
 
 ----
