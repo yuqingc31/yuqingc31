@@ -12,6 +12,8 @@ I'm Yuqing, a master student at AOU.
   
 -   🧰 github / bitbucket / Jira
 
+-   🖌️ figma / photoshop
+
 
 ----
 #### :rocket: My Projects
