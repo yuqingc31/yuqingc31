@@ -17,12 +17,14 @@ I'm Yuqing, a master student at AOU.
 
 ----
 #### :rocket: My Projects
-
+#school's assignments:
 * [yuqingc31/COMP SCI 2000 Computer-Systems-UOA - Computer Systems assignments/quizzes/exams/notes - HDL, c++
-* [yuqingc31/JR](https://github.com/yuqingc31/JRbusinessProjects.git) - Projects from JR company - HTML, CSS, JavaScript, NodeJS, TypeScript, React, TypeScript
 * [yuqingc31/ADSA-UOA](https://github.com/yuqingc31/ADSA.git) - Algorithm and Data Structure Analysis assignments - c++
 * [yuqingc31/Computer-Vision-UOA](https://github.com/yuqingc31/Computer-Vision.git) - Computer Vision assignments - python numpy
 * [yuqingc31/Operating-Systems](https://github.com/yuqingc31/Operating-Systems.git) - Operating Systems - c, java
+
+##personal projects:
+* [yuqingc31/JR](https://github.com/yuqingc31/JRbusinessProjects.git) - Projects from JR company - HTML, CSS, JavaScript, NodeJS, TypeScript, React, TypeScript
 * [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
 
 --- 
