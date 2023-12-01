@@ -18,7 +18,7 @@ I'm Yuqing, a master student at AOU.
 ----
 #### :rocket: My Projects
 
-personal projects:
+personal projects (no copying):
 * [yuqingc31/JR](https://github.com/yuqingc31/JRbusinessProjects.git) - Projects from JR company - HTML, CSS, JavaScript, NodeJS, TypeScript, React
 * [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
 * [OfferRipple](https://github.com/yuqingc31/OfferRipple.git) - OfferRipple(Discount offer website) - HTML, CSS, JavaScript, NodeJS, React, TypeScript, MongoDB
