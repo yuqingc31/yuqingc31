@@ -28,6 +28,7 @@ school's assignments:
 * [yuqingc31/ADSA-UOA](https://github.com/yuqingc31/ADSA.git) - Algorithm and Data Structure Analysis assignments - c++
 * [yuqingc31/Computer-Vision-UOA](https://github.com/yuqingc31/Computer-Vision.git) - Computer Vision assignments - python numpy
 * [yuqingc31/Operating-Systems](https://github.com/yuqingc31/Operating-Systems.git) - Operating Systems - c, java
+* [yuqingc31/CNA](https://github.com/yuqingc31/CNA.git) - Computer networking and applications
 
 --- 
 
