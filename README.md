@@ -29,7 +29,7 @@ school's assignments (no copying):
 * [yuqingc31/Computer-Vision-UOA](https://github.com/yuqingc31/Computer-Vision.git) - Computer Vision assignments - python numpy
 * [yuqingc31/Operating-Systems](https://github.com/yuqingc31/Operating-Systems.git) - Operating Systems - c, java
 * [yuqingc31/CNA](https://github.com/yuqingc31/CNA.git) - Computer networking and applications
-
+* [yuqingc31/MiningBigData](https://github.com/yuqingc31/MiningBigData.git) - Mining Big Data - python
 --- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
