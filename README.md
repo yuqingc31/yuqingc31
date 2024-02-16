@@ -27,9 +27,9 @@ school's assignments (no copying):
 * [yuqingc31/COMP SCI 2000 Computer-Systems-UOA](https://github.com/yuqingc31/Computer-System.git) - Computer Systems assignments/quizzes/exams/notes - HDL, c++
 * [yuqingc31/ADSA-UOA](https://github.com/yuqingc31/ADSA.git) - Algorithm and Data Structure Analysis assignments - c++
 * [yuqingc31/Computer-Vision-UOA](https://github.com/yuqingc31/Computer-Vision.git) - Computer Vision assignments - python numpy
-* [yuqingc31/Operating-Systems](https://github.com/yuqingc31/Operating-Systems.git) - Operating Systems - c, java
+* [yuqingc31/Operating-Systems](https://github.com/yuqingc31/Operating-Systems.git) - Operating Systems assignments - c, java
 * [yuqingc31/CNA](https://github.com/yuqingc31/CNA.git) - Computer networking and applications
-* [yuqingc31/MiningBigData](https://github.com/yuqingc31/MiningBigData.git) - Mining Big Data - python
+* [yuqingc31/MiningBigData](https://github.com/yuqingc31/MiningBigData.git) - Mining Big Data assignments- python
 --- 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
