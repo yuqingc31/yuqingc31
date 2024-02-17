@@ -8,7 +8,7 @@
 
 I'm Yuqing, a master student at AOU.
 
--   :hammer_and_pick: Java / C++ / C / python / HTML / CSS / SASS / JavaScript / TypeScript / React / Node.js 
+-   :hammer_and_pick: Java / C++ / C / python / HTML / CSS / SASS / JavaScript / TypeScript / React / Node.js / Wordpress
   
 -   🧰  github / bitbucket / Jira
 
@@ -20,7 +20,7 @@ I'm Yuqing, a master student at AOU.
 
 personal projects:
 * [yuqingc31/JR](https://github.com/yuqingc31/JRbusinessProjects.git) - Projects from JR company - HTML, CSS, JavaScript, NodeJS, TypeScript, React
-* [My-personal-page](https://github.com/yuqingc31/yuqingc31.github.io.git) - About me
+* [My-personal-page](yuqingc31.wordpress.com) - About me
 * [OfferRipple](https://github.com/yuqingc31/OfferRipple.git) - OfferRipple(Discount offer website) - HTML, CSS, JavaScript, NodeJS, React, TypeScript, MongoDB
 
 school's assignments (no copying):
