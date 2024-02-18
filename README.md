@@ -8,6 +8,8 @@
 
 I'm Yuqing, a master of computing and innovation student at UOA. Feel free to ask me questions if you are interested in this field or you are about to study it. 
 
+My hobbies: editing videos (A bit weird I know), hiking (Can't walk for more than an hour or I'll get angry), cooking (something that looks exquisite but tastes awful).
+
 My Medium articles: https://medium.com/@yuqingc31
 
 :)
