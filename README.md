@@ -18,7 +18,6 @@ My Medium articles: https://medium.com/@yuqingc31
 
 -   🖌️ figma / photoshop
 
-
 ----
 #### :rocket: My Projects
 
@@ -39,6 +38,7 @@ School's assignments (referencing only):
 ---
 #### My hobbies:
 
-My hobbies: editing videos (A bit weird I know), hiking (Can't walk for more than an hour or I'll get angry), cooking (something that looks exquisite but tastes awful).
+My hobbies: cooking (something that looks exquisite but tastes awful).
+
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
