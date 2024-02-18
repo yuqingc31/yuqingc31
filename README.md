@@ -8,8 +8,6 @@
 
 I'm Yuqing, a master of computing and innovation student at UOA. Feel free to ask me questions if you are interested in this field or you are about to study it. 
 
-My hobbies: editing videos (A bit weird I know), hiking (Can't walk for more than an hour or I'll get angry), cooking (something that looks exquisite but tastes awful).
-
 My Medium articles: https://medium.com/@yuqingc31
 
 :)
@@ -38,6 +36,9 @@ School's assignments (referencing only):
 * [yuqingc31/CNA](https://github.com/yuqingc31/CNA.git) - Computer networking and applications
 * [yuqingc31/MiningBigData](https://github.com/yuqingc31/MiningBigData.git) - Mining Big Data assignments - python
 * [yuqingc31/MCI_Project](https://github.com/yuqingc31/MCI_Project.git) - Master of Computing and Innovation Project
---- 
+---
+#### My hobbies:
 
+My hobbies: editing videos (A bit weird I know), hiking (Can't walk for more than an hour or I'll get angry), cooking (something that looks exquisite but tastes awful).
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
