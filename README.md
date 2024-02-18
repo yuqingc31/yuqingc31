@@ -18,12 +18,13 @@ I'm Yuqing, a master of computing and innovation student at UOA. Feel free to as
 ----
 #### :rocket: My Projects
 
-personal projects:
+Personal projects:
 * [yuqingc31/JR](https://github.com/yuqingc31/JRbusinessProjects.git) - Projects from JR company - HTML, CSS, JavaScript, NodeJS, TypeScript, React
 * [OfferRipple](https://github.com/yuqingc31/OfferRipple.git) - OfferRipple(Discount offer website) - HTML, CSS, JavaScript, NodeJS, React, TypeScript, MongoDB
 * My personal page - yuqingc31.wordpress.com - WordPress
 
-school's assignments (no copying):
+School's assignments (referencing only):
+
 * [yuqingc31/COMP SCI 2000 Computer-Systems-UOA](https://github.com/yuqingc31/Computer-System.git) - Computer Systems assignments/quizzes/exams/notes - HDL, c++
 * [yuqingc31/ADSA-UOA](https://github.com/yuqingc31/ADSA.git) - Algorithm and Data Structure Analysis assignments - c++
 * [yuqingc31/Computer-Vision-UOA](https://github.com/yuqingc31/Computer-Vision.git) - Computer Vision assignments - python numpy
