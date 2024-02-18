@@ -6,7 +6,7 @@
 
 -->
 
-I'm Yuqing, a master student at UOA.
+I'm Yuqing, a master of computing and innovation student at UOA. Feel free to ask me questions if you are interested in this field or you are about to study it. 
 
 -   :hammer_and_pick: Java / C++ / C / python / HTML / CSS / SASS / JavaScript / TypeScript / React / Node.js / Wordpress
   
