@@ -6,7 +6,7 @@
 
 -->
 
-I'm Yuqing, a master student at AOU.
+I'm Yuqing, a master student at UOA.
 
 -   :hammer_and_pick: Java / C++ / C / python / HTML / CSS / SASS / JavaScript / TypeScript / React / Node.js / Wordpress
   
