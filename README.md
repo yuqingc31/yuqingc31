@@ -6,7 +6,7 @@
 
 -->
 
-I'm Yuqing, a master of computing and innovation student at UOA. Feel free to ask me questions if you are interested in this field or you are about to study it. 
+I'm Yuqing, a master of computing and innovation student at UOA. 
 
 My Medium articles: https://medium.com/@yuqingc31
 
