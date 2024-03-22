@@ -26,7 +26,7 @@ Personal projects:
 * [OfferRipple](https://github.com/yuqingc31/OfferRipple.git) - OfferRipple(Discount offer website) - HTML, CSS, JavaScript, NodeJS, React, TypeScript, MongoDB
 * My personal page - yuqingc31.wordpress.com - WordPress
 
-School's assignments (referencing only):
+School's assignments (Do not copy):
 
 * [yuqingc31/COMP SCI 2000 Computer-Systems-UOA](https://github.com/yuqingc31/Computer-System.git) - Computer Systems assignments/quizzes/exams/notes - HDL, c++
 * [yuqingc31/ADSA-UOA](https://github.com/yuqingc31/ADSA.git) - Algorithm and Data Structure Analysis assignments - c++
