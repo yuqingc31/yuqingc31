@@ -35,10 +35,6 @@ School's assignments (Do not copy):
 * [yuqingc31/CNA](https://github.com/yuqingc31/CNA.git) - Computer networking and applications - c
 * [yuqingc31/MiningBigData](https://github.com/yuqingc31/MiningBigData.git) - Mining Big Data assignments - python
 * [yuqingc31/MCI_Project](https://github.com/yuqingc31/MCI_Project.git) - Master of Computing and Innovation Project
----
-#### My hobbies:
-
-My hobbies: cooking (something that looks exquisite but tastes awful).
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
