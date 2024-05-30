@@ -10,6 +10,8 @@ I'm Yuqing, a master of computing and innovation student at UOA.
 
 My Medium articles: https://medium.com/@yuqingc31
 
+My email: yuqingc31@gmail.com
+
 :)
 
 -   :hammer_and_pick: Java / C++ / C / python / HTML / CSS / SASS / JavaScript / TypeScript / React / Node.js / Wordpress
