@@ -36,7 +36,6 @@ School's assignments (Do not copy):
 * [yuqingc31/Operating-Systems](https://github.com/yuqingc31/Operating-Systems.git) - Operating Systems assignments - c, java
 * [yuqingc31/CNA](https://github.com/yuqingc31/CNA.git) - Computer networking and applications - c, python
 * [yuqingc31/MiningBigData](https://github.com/yuqingc31/MiningBigData.git) - Mining Big Data assignments - python
-* [yuqingc31/MCI_Project](https://github.com/yuqingc31/MCI_Project.git) - Master of Computing and Innovation Project
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuqingc31&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
