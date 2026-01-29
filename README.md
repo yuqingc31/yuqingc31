@@ -6,7 +6,7 @@
 
 -->
 
-I'm Yuqing, a master of computing and innovation student at UOA. 
+I'm Yuqing, a master student studying in Adelaide Uni
 
 My Medium articles: https://medium.com/@yuqingc31
 
